@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=0%27stin&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=56&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6DB33F&center=true&vCenter=true&width=560&height=42&lines=Java+%C2%B7+Spring+Full-Stack" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6DB33F&center=true&vCenter=true&width=560&height=42&lines=Full-Stack" />
 
 </div>
 
